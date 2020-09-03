@@ -1,4 +1,4 @@
-# React/Typescript Material UI Boilerplate
+# React/Typescript/Redux/i18Next Boilerplate
 
 ## Available Scripts
 
